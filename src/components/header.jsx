@@ -13,8 +13,8 @@ export default function Header() {
           data-aos-delay="0"
         >
           <a href="/">
-            <h1 className="text-[30px] leading-none font-bold">DWI</h1>
-            <h4 className="font-normal leading-none">NUR FIRMANTO</h4>
+            <h1 className="text-[30px] leading-none font-bold">DWI NUR</h1>
+            <h4 className="font-normal leading-none">FIRMANTO</h4>
           </a>
         </div>
         <div
