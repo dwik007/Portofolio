@@ -18,16 +18,16 @@ export default function Header() {
           </a>
         </div>
         <div
-        // className="flex items-center space-x-3"
-        // data-aos="fade-left"
-        // data-aos-easing="ease-in-sine"
-        // data-aos-duration="500"
-        // data-aos-delay="0"
+          className="flex items-center space-x-3"
+          // data-aos="fade-left"
+          // data-aos-easing="ease-in-sine"
+          // data-aos-duration="500"
+          // data-aos-delay="0"
         >
-          <a href="/">
+          <a href="https://github.com/dwik007">
             <BsGithub />
           </a>
-          <a href="/">
+          <a href="https://www.linkedin.com/in/dwi-nur-firmanto/">
             <BsLinkedin />
           </a>
         </div>
