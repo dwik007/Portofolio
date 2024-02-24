@@ -24,10 +24,13 @@ export default function Header() {
           // data-aos-duration="500"
           // data-aos-delay="0"
         >
-          <a href="https://github.com/dwik007">
+          <a className="text-[30px]" href="https://github.com/dwik007">
             <BsGithub />
           </a>
-          <a href="https://www.linkedin.com/in/dwi-nur-firmanto/">
+          <a
+            className="text-[30px]"
+            href="https://www.linkedin.com/in/dwi-nur-firmanto/"
+          >
             <BsLinkedin />
           </a>
         </div>

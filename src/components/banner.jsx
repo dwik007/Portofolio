@@ -29,8 +29,8 @@ export default function Banner() {
           <div className="max-w-[750px] text=[12px] text-center mx-auto mt-5">
             I am a web developer who loves all things about technology. The
             technologies that I master as a web developer include HTML, CSS,
-            JavaScript, PHP, MySQL, MongoDB, which is also supported by my
-            ability to solve problems effectively.
+            JavaScript, PHP, Reactjs, TailwindCSS, Bootstrap which is also
+            supported by my ability to solve problems effectively.
           </div>
         </div>
       </div>
