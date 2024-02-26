@@ -85,22 +85,18 @@ export default function Portfolio() {
             </a>
           </div>
           <div className="w-full">
-            <a href="https://www.hashmicro.com/id/iklan/software-erp">
+            <a href="https://ebupot-dummyv1.000webhostapp.com/">
               <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
-                <img src="images/hashmicro-web.png" alt="" />
+                <img src="images/DJP.png" alt="" />
                 <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
                   <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
                     <div className="bg-white rounded-full px-5 inline-blick mb-2">
-                      <h4 className="text-gradient">Hashmicro Indonesia</h4>
+                      <h4 className="text-gradient">
+                        Direktorat Jenderal Pajak (DJP)
+                      </h4>
                     </div>
                     <p className="text-[12px]">
-                      Crafting a dynamic landing page for HashMicro Indonesia
-                      involves utilizing OwlCarousel, JavaScript, HTML5, and
-                      CSS3. OwlCarousel offers interactive content displays,
-                      while JavaScript adds dynamic elements for a responsive
-                      interface. HTML5 ensures structural integrity, and CSS3
-                      polishes the design, resulting in an engaging landing page
-                      experience.
+                      Crafting a dummy Dirjen Pajak (DJP) Using PHP, HTML5, CSS
                     </p>
                   </div>
                 </div>
