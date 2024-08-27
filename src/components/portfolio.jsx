@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Portfolio() {
   return (
-    <div id="portfolio" className="section">
+    <div id="portfolio" className="section1">
       <div className="container mx-auto max-w-[1200px] px-3 pt-3 pb-20">
         <div className="flex flex-col lg:align-center lg:flex-row justify-between mb-[50px]">
           <div className="order-2 lg:order-1 mt-5">
@@ -17,7 +17,7 @@ export default function Portfolio() {
           </div>
           <div className="order-1 lg:order-2 text-center">
             <h2 className="text-gradient font-primary max-w-[700px] mx-auto text-[50px] mt-12">
-              04
+              12
             </h2>
             <div>Completed Projects</div>
           </div>
@@ -97,6 +97,152 @@ export default function Portfolio() {
                     </div>
                     <p className="text-[12px]">
                       Crafting a dummy Dirjen Pajak (DJP) Using PHP, HTML5, CSS
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://thesecretjunglevillas.com/id/">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/thesecretjunglevilla.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">The Secret Jungle Villa</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Crafting a dynamic landing page for The Secret Jungle
+                      Villa involves utilizing Wordpress,Elementor, JavaScript,
+                      HTML5, and CSS3.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://untethered.agency/">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/untethered.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">Untethered</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Crafting a dynamic landing page for Untethered involves
+                      utilizing Wordpress,Elementor, JavaScript, HTML5, and
+                      CSS3.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://lagobali.com">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/lago.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">Lago Bali</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Crafting a dynamic landing page for Lago Bali involves
+                      utilizing Wordpress, JavaScript, HTML5, and CSS3.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://fullersproperties.com">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/fullers.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">Fullers Properties</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Website Maintenance Refreshing Listings, Fixing Bugs, and
+                      Ensuring Backups, Update Page
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://solusiconsultancy.com">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/solusi.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">Solusi Consultancy</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Applying and customizing themes using WordPress and
+                      Elementor to meet client specifications.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://yogabali.com">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/yogabali.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">YogaBali</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Maintenance website Yogabali, Adjust Page, Update Plugin,
+                      Fix Bug using Elementor, Wordpress
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://bambooworks.io">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/bamboo.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">BambooWorks</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Applying and customizing themes using WordPress and
+                      Elementor to meet client specifications.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </a>
+          </div>
+          <div className="w-full">
+            <a href="https://5starbalivilla.co.au">
+              <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
+                <img src="images/5star.png" alt="" />
+                <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
+                  <div className="text-center w-full text-white mt-[-60px] group-hover:mt-[0] transition-all">
+                    <div className="bg-white rounded-full px-5 inline-blick mb-2">
+                      <h4 className="text-gradient">5 Star Bali Villa</h4>
+                    </div>
+                    <p className="text-[12px]">
+                      Website Maintenance Refreshing Listings, Fixing Bugs, and
+                      Ensuring Backups, Update Page
                     </p>
                   </div>
                 </div>
