@@ -232,7 +232,7 @@ export default function Portfolio() {
             </a>
           </div>
           <div className="w-full">
-            <a href="https://5starbalivilla.co.au">
+            <a href="https://5starbalivilla.com.au">
               <div className="bg-white h-full w-full justify-center items-center flex rounded-lg overflow-hidden p-5 relative group">
                 <img src="images/5star.png" alt="" />
                 <div className="absolute p-5 bg-primary w-full h-full flex item opacity-0 group-hover:opacity-100 transition">
